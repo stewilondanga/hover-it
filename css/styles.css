@@ -1,4 +1,11 @@
 @import 'https://fonts.googleapis.com/css?family=Lato:300';
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  background: black;
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -23,12 +30,6 @@
 }
 
 
-body, html {
-  margin: 0;
-  padding: 0;
-  height: 100%;
-  background: black;
-}
 
 .wrapper {
   width: 100%;
