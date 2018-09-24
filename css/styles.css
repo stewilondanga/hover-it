@@ -26,16 +26,17 @@ body, html {
   height: 100%;
 }
 
-/*.wrapper section {
+.wrapper section {
   width: calc(100% / 3);
   height: 100%;
   float: left;
   -webkit-filter: grayscale(50%);
-          filter: grayscale(50%);
+  filter: grayscale(50%);
   transition-duration: 0.5s;
   position: relative;
 }
-.wrapper section::before {
+
+/*.wrapper section::before {
   content: "";
   position: absolute;
   width: 100%;
