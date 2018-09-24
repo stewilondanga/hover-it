@@ -46,10 +46,11 @@ body, html {
   transition: 0.3s;
 }
 
-/*.wrapper section.sec01 {
+.wrapper section.sec01 {
   background: url("https://unsplash.it/1200/800?image=1015");
 }
-.wrapper section.sec02 {
+
+/*.wrapper section.sec02 {
   background: url("https://unsplash.it/1200/800?image=944");
 }
 .wrapper section.sec03 {
