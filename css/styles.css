@@ -70,10 +70,11 @@ body, html {
   filter: grayscale(0%);
 }
 
-/*.wrapper:hover section:hover::before {
+.wrapper:hover section:hover::before {
   opacity: 0;
 }
-.wrapper:hover section:not(:hover) {
+
+/*.wrapper:hover section:not(:hover) {
   width: 30%;
 }
 
