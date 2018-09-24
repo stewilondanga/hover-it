@@ -54,10 +54,11 @@ body, html {
   background: url("https://unsplash.it/1200/800?image=944");
 }
 
-/*.wrapper section.sec03 {
+.wrapper section.sec03 {
   background: url("https://unsplash.it/1200/800?image=877");
 }
-.wrapper section.sec01, .wrapper section.sec02, .wrapper section.sec03 {
+
+/*.wrapper section.sec01, .wrapper section.sec02, .wrapper section.sec03 {
   background-repeat: no-repeat;
   background-position: 50% 50%;
   background-size: cover;
