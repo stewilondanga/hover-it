@@ -64,12 +64,13 @@ body, html {
   background-size: cover;
 }
 
-/*.wrapper:hover section:hover {
+.wrapper:hover section:hover {
   width: 40%;
   -webkit-filter: grayscale(0%);
-          filter: grayscale(0%);
+  filter: grayscale(0%);
 }
-.wrapper:hover section:hover::before {
+
+/*.wrapper:hover section:hover::before {
   opacity: 0;
 }
 .wrapper:hover section:not(:hover) {
